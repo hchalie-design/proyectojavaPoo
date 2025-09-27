@@ -1,0 +1,4 @@
+MARCO;111;Marco Pecho Paloma;50.0;3;Pino
+PINCEL;222;Pincel Rios;13.0;20;fina
+Producto simple;333;Oleo;44.0;100;-
+CLIENTE;Fausto;1222 212 1232;donFausto@.com
